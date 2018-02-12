@@ -1,4 +1,4 @@
 # hello-world
-my first project
+my second project
 here i gonna start my programmer carier
 hello nigor
