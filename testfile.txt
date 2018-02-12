@@ -1,2 +1,6 @@
 first text file or not
+<<<<<<< HEAD
 my dog name is markus
+=======
+ My name is bendzamin
+>>>>>>> d472e81818e7c46e48c4e272e99d62f1ac2dd07c
